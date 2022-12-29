@@ -1,12 +1,8 @@
 ### Olá! Eu sou o Reynaldo Hendson 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-hendson/)
-<a href:"https://www.linkedin.com/in/reynaldo-hendson/" ><i class="devicon-linkedin-plain colored"></i></a>
-          
-
-<div>
+        
 ![Reynaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldo86&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldo86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ## Tecnologias que eu uso no meu dia
 
