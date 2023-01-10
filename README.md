@@ -1,18 +1,24 @@
 ### Olá!
 
-Eu sou o Reynaldo Hendson 👋
+<h1>Eu sou o Reynaldo Hendson 👋</h1>
+<h3>Mas podem me chamar de Reynaldo</h3><hr>
 
-Estou em trasição de carreira
+<h3>Estou em trasição de carreira.</h3><br>
 
-Formado em Desenvolvedor Full Stack Junior
+<h3>📗 Formado em Desenvolvedor Full Stack Junior - Recode Pro 2022.</h3><br>
 
-Meu foco atualmente está em Back-end com Java
+<h3>🖥️ Meu foco atualmente está em Back-end com Java.</h3><br>
+
+<h3>👉 Softskills que se destacam: Curiosidade, determinação, trabalho em equipe e foco .</h3><hr>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-hendson/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z7TSbHbR)
-        
-![Reynaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldo86&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldo86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<div align="center"> 
+<a href= "">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynaldo86&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldo86&layout=compact&langs_count=7&theme=outrun"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
