@@ -23,16 +23,16 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
-  <img align="center" height = "50" width = "50" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>       
-  <img align="center" height = "50" width = "50" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>        
-  <img align="center" height = "50" width = "50" alt="bootstrap" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height = "50" width = "50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height = "50" width = "50" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
+ 
        
 </div><br/>
 
-Apaixonado por tecnologia, trilhando o caminho para se tornar um programador.
+Apaixonado por tecnologia.
 
 <div align="center">
 <br><p align="centre"><b>Visto por</b></p>  
