@@ -6,9 +6,9 @@
 
 <h3>📗 Formado em Desenvolvedor Full Stack Junior - Recode Pro 2022.</h3><br>
 
-<h3>🖥️ Meu foco atualmente está em Back-end com Java.</h3><br>
+<h3>🖥️ Meu foco atualmente está em Backend com Java.</h3><br>
 
-<h3>👉 Softskills que se destacam: Curiosidade, determinação, trabalho em equipe e foco .</h3><hr>
+<h3>👉 Softskills que se destacam: Curiosidade, determinação e trabalho em equipe.</h3><hr>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-hendson/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z7TSbHbR)
