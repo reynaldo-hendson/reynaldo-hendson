@@ -6,15 +6,17 @@ Sou um desenvolvedor back-end com mais de 1 ano de experiência. Após mais de u
 Formado em Processos Gerenciais pela UniAteneu. Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistema na UniFanor.
 Competências: Java, Spring Framework, Hibernate, Desenvolvimento de APIs RESTful e Micro serviços.
 Estou focado em aprimorar minhas habilidades em Java e explorar áreas como arquitetura de microserviços e práticas ágeis de desenvolvimento.
+
 <h3>👉 Softskills que se destacam: Curiosidade, determinação e trabalho em equipe.</h3><hr>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynaldo-hendson/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z7TSbHbR)
  
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=reynaldo-hendson&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=reynaldo-hendson&show_icons=true&theme=radical&layout=compact" />
 </div>
+   
 
 ## 💻 Tech Stack:
 
@@ -24,7 +26,6 @@ Estou focado em aprimorar minhas habilidades em Java e explorar áreas como arqu
   <img align="center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">     
 </div>
 
 ## 🗃️ Databases:
