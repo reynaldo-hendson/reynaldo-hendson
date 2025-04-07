@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Reynaldo+Hendson;Tenho+38+anos;Seja+muito+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 Sou um desenvolvedor back-end com mais de 2 ano de experiência. Após mais de uma década na área de comércio, fiz uma transição de carreira para programação.
-Formado em Processos Gerenciais pela UniAteneu. Atualmente, estou cursando o 4º período de Análise e Desenvolvimento de Sistema na UniFanor.
+Formado em Processos Gerenciais pela UniAteneu. Atualmente, estou cursando o 5º período de Análise e Desenvolvimento de Sistema na UniFanor.
 Competências: Java, Spring Framework, Hibernate, Desenvolvimento de APIs RESTful e Micro serviços.
 Estou focado em aprimorar minhas habilidades em Java e explorar áreas como arquitetura de microserviços e práticas ágeis de desenvolvimento.
 
